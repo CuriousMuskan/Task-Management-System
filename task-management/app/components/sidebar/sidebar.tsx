@@ -6,6 +6,8 @@ import Image from "next/image";
 
     function Sidebar(){
         const {theme} = useGlobalState();
+        const pathname
+
         return(
             <SidebarStyled theme={theme}>
                 <div className="profile">
