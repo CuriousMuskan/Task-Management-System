@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React ,{createContext, useState, useContext} from "react";
 import themes from "./themes"; 
 
